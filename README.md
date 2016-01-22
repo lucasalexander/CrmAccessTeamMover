@@ -1,0 +1,1 @@
+This is the solution for a console application to copy/update access team template records from one Dynamics CRM organization to another. It's described in detail in my ["Console application for moving Dynamics CRM access team templates"](http://alexanderdevelopment.net/post/2014/12/12/console-application-for-moving-dynamics-crm-access-team-templates/) blog post. 
